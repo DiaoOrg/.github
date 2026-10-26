@@ -38,6 +38,7 @@ Selected open-source work from community members, also featured on our [website]
 | [UniLab](https://github.com/fan-ziqi/UniLab) | A heterogeneous architecture for robot reinforcement learning.<br>面向机器人强化学习的异构架构。 |
 | [PACE](https://github.com/fan-ziqi/pace-sim2real-mjlab) | Sim-to-real transfer for legged robots with mjlab.<br>基于 mjlab 的足式机器人仿真到现实迁移。 |
 | [robot_viewer](https://github.com/fan-ziqi/robot_viewer) | A browser-based viewer for robot models and scenes.<br>在浏览器中查看机器人模型与场景。 |
+| [catbrain](https://github.com/ziwenzhuang/catbrain) | Agent skills for robotics research workflows: dev conventions, code/data sync, experiment reports and research explainer videos.<br>面向机器人研究工作流的 Agent 技能：开发规范、代码与数据同步、实验报告与研究讲解视频。 |
 
 ## Build With Us / 开放协作
 
