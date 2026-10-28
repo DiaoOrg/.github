@@ -1,22 +1,22 @@
-# DIAO
+# miao
 
-**Dynamics, Intelligence, Actuation & Operation**
+**Mechanics, Intelligence, Actuation & Operation**
 
 *Robotics · Embodied Intelligence · From Motion to Real-World Impact*
 
-[![DIAO: Dynamics, Intelligence, Actuation and Operation, connecting robotics research with real-world deployment.](https://raw.githubusercontent.com/DiaoOrg/.github/main/profile/assets/diao-overview.png)](https://diaoorg.github.io/)
+[![miao: Mechanics, Intelligence, Actuation and Operation, connecting robotics research with real-world deployment.](https://raw.githubusercontent.com/miao-org/.github/main/profile/assets/miao-overview.png)](https://miao-org.github.io/)
 
-[Website / 官网](https://diaoorg.github.io/) · [Repositories / 代码仓库](https://github.com/orgs/DiaoOrg/repositories) · [Open Experiment / 开放共创](https://github.com/fan-ziqi/fill-me-with-robotics)
+[Website / 官网](https://miao-org.github.io/) · [Repositories / 代码仓库](https://github.com/orgs/miao-org/repositories) · [Open Experiment / 开放共创](https://github.com/miao-org/fill-me-with-robotics)
 
-DIAO is an open robotics community exploring embodied intelligence and learning-based control. We connect physical models, intelligent policies, robot hardware and real-world operation, bringing research closer to machines that move and act in the physical world.
+miao is an open robotics community exploring embodied intelligence and learning-based control. We connect physical models, intelligent policies, robot hardware and real-world operation, bringing research closer to machines that move and act in the physical world.
 
-DIAO 是一个关注机器人、具身智能与学习型控制的开放社区。我们把物理建模、策略学习、硬件驱动与运动执行连接起来，推动研究从仿真走向真实世界。
+miao 是一个关注机器人、具身智能与学习型控制的开放社区。我们把物理建模、策略学习、硬件驱动与运动执行连接起来，推动研究从仿真走向真实世界。
 
 ## Research Directions / 研究方向
 
 | Direction / 方向 | Focus / 关注领域 |
 | :--- | :--- |
-| **D · Dynamics / 动力学** | Modeling, control, motion, contact and simulation.<br>建模、控制、运动、接触与仿真。 |
+| **M · Mechanics / 力学** | Modeling, control, motion, contact and simulation.<br>建模、控制、运动、接触与仿真。 |
 | **I · Intelligence / 智能** | Perception, learning, reasoning, decision-making and foundation models.<br>感知、学习、推理、决策与基础模型。 |
 | **A · Actuation / 驱动** | Actuators, mechanisms, hardware, power and sensing.<br>执行器、机构、硬件、动力与传感。 |
 | **O · Operation / 运动执行** | Locomotion, manipulation, task execution and real-world deployment.<br>移动、操作、任务执行与真实世界部署。 |
@@ -25,19 +25,19 @@ These directions form a closed loop: models inform policies, hardware turns comm
 
 四个方向构成持续迭代的闭环：模型支撑策略，硬件将指令转化为运动，真实世界的反馈再推动模型与方法改进。
 
-## Community Projects / 社区项目
+## Organization Projects / 组织项目
 
-Selected open-source work from community members, also featured on our [website](https://diaoorg.github.io/#work). These projects are maintained in their respective repositories.
+Projects hosted in miao-org, also featured on our [website](https://miao-org.github.io/#work).
 
-以下为[官网](https://diaoorg.github.io/#work)展示的社区成员开源项目，均在各自仓库中维护。
+以下项目均托管于 miao-org 组织，也在[官网](https://miao-org.github.io/#work)展示。
 
 | Project / 项目 | About / 简介 |
 | :--- | :--- |
-| [rl_sar](https://github.com/fan-ziqi/rl_sar) | Simulation verification and real-robot deployment of reinforcement learning policies.<br>机器人强化学习策略的仿真验证与实机部署。 |
-| [robot_lab](https://github.com/fan-ziqi/robot_lab) | An Isaac Lab-based extension library for robot reinforcement learning.<br>基于 Isaac Lab 的机器人强化学习扩展库。 |
-| [UniLab](https://github.com/fan-ziqi/UniLab) | A heterogeneous architecture for robot reinforcement learning.<br>面向机器人强化学习的异构架构。 |
-| [PACE](https://github.com/fan-ziqi/pace-sim2real-mjlab) | Sim-to-real transfer for legged robots with mjlab.<br>基于 mjlab 的足式机器人仿真到现实迁移。 |
-| [robot_viewer](https://github.com/fan-ziqi/robot_viewer) | A browser-based viewer for robot models and scenes.<br>在浏览器中查看机器人模型与场景。 |
+| [RoboRadar](https://github.com/miao-org/RoboRadar) | A local dashboard for robotics paper digests and community updates.<br>本地运行的机器人论文日报与社区动态工具。 |
+| [InfoHub](https://github.com/miao-org/InfoHub) | Organize chat messages into tasks, events and linked topics in a local dashboard.<br>在本地看板中将聊天消息整理为任务、事件与关联主题。 |
+| [awesome-supermimic](https://github.com/miao-org/awesome-supermimic) | A curated guide to SuperMimic implementations, extensions, demos and resources.<br>整理 SuperMimic 实现、扩展、演示与学习资源。 |
+| [white-paper](https://github.com/miao-org/white-paper) | A bilingual Markdown framework for a robotics engineer learning plan.<br>面向机器人工程师学习计划的双语 Markdown 文档框架。 |
+| [fill-me-with-robotics](https://github.com/miao-org/fill-me-with-robotics) | An open community experiment shaped by robotics software contributions.<br>由机器人软件贡献共同塑造的开放社区实验。 |
 
 ## Build With Us / 开放协作
 
@@ -45,6 +45,6 @@ We welcome research discussions, reproducible experiments, useful tools and cont
 
 欢迎围绕机器人研究交流想法、分享可复现实验、改进工具与文档。具体问题和实验结果可在对应项目的 Issues 中讨论，代码与文档贡献可通过 Pull Request 提交。
 
-Have an idea to try? [Join the open experiment: fill-me-with-robotics](https://github.com/fan-ziqi/fill-me-with-robotics).
+Have an idea to try? [Join the open experiment: fill-me-with-robotics](https://github.com/miao-org/fill-me-with-robotics).
 
-有想动手实现的点子？欢迎参与 [fill-me-with-robotics 开放共创](https://github.com/fan-ziqi/fill-me-with-robotics)。
+有想动手实现的点子？欢迎参与 [fill-me-with-robotics 开放共创](https://github.com/miao-org/fill-me-with-robotics)。
