@@ -1,10 +1,10 @@
 # miao
 
-**Mechanics, Intelligence, Actuation & Operation**
+**Mechatronics, Intelligence, Actuation & Operation**
 
 *Robotics · Embodied Intelligence · From Motion to Real-World Impact*
 
-[![miao: Mechanics, Intelligence, Actuation and Operation, connecting robotics research with real-world deployment.](https://raw.githubusercontent.com/miao-org/.github/main/profile/assets/miao-overview.png)](https://miao-org.github.io/)
+[![miao: Mechatronics, Intelligence, Actuation and Operation, connecting robotics research with real-world deployment.](https://raw.githubusercontent.com/miao-org/.github/main/profile/assets/miao-overview.png)](https://miao-org.github.io/)
 
 [Website / 官网](https://miao-org.github.io/) · [Repositories / 代码仓库](https://github.com/orgs/miao-org/repositories) · [Open Experiment / 开放共创](https://github.com/miao-org/fill-me-with-robotics)
 
@@ -16,7 +16,7 @@ miao 是一个关注机器人、具身智能与学习型控制的开放社区。
 
 | Direction / 方向 | Focus / 关注领域 |
 | :--- | :--- |
-| **M · Mechanics / 力学** | Modeling, control, motion, contact and simulation.<br>建模、控制、运动、接触与仿真。 |
+| **M · Mechatronics / 机电一体化** | Modeling, control, motion, contact and simulation.<br>建模、控制、运动、接触与仿真。 |
 | **I · Intelligence / 智能** | Perception, learning, reasoning, decision-making and foundation models.<br>感知、学习、推理、决策与基础模型。 |
 | **A · Actuation / 驱动** | Actuators, mechanisms, hardware, power and sensing.<br>执行器、机构、硬件、动力与传感。 |
 | **O · Operation / 运动执行** | Locomotion, manipulation, task execution and real-world deployment.<br>移动、操作、任务执行与真实世界部署。 |
